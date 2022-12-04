@@ -11,7 +11,7 @@
 
 PATH="$PATH:/usr/bin:/usr/local/bin:/usr/sbin:/usr/local/sbin:/bin:/sbin"
 log="logger -t usb-mount.sh -s "
-MNT_PREFIX="/mnt/NAS"
+MNT_PREFIX="/mnt/TM_DIR"
 
 usage()
 {
